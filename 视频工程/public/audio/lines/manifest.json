@@ -1,0 +1,1843 @@
+{
+  "voice": "zh-CN-YunxiNeural",
+  "lines": [
+    {
+      "id": "s1-a",
+      "text": "智析 AI。不只是给答案，而是找到知识断点。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s1-a.mp3",
+      "seconds": 5.28,
+      "words": [
+        {
+          "text": "智析",
+          "offsetMs": 100,
+          "durMs": 462
+        },
+        {
+          "text": "AI",
+          "offsetMs": 575,
+          "durMs": 612
+        },
+        {
+          "text": "不只",
+          "offsetMs": 1750,
+          "durMs": 288
+        },
+        {
+          "text": "是",
+          "offsetMs": 2050,
+          "durMs": 125
+        },
+        {
+          "text": "给",
+          "offsetMs": 2175,
+          "durMs": 88
+        },
+        {
+          "text": "答案",
+          "offsetMs": 2275,
+          "durMs": 388
+        },
+        {
+          "text": "而是",
+          "offsetMs": 3050,
+          "durMs": 375
+        },
+        {
+          "text": "找到",
+          "offsetMs": 3438,
+          "durMs": 250
+        },
+        {
+          "text": "知识",
+          "offsetMs": 3712,
+          "durMs": 275
+        },
+        {
+          "text": "断点",
+          "offsetMs": 4000,
+          "durMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s1-b",
+      "text": "一套面向教师与学生的知识断点诊断平台。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s1-b.mp3",
+      "seconds": 4.488,
+      "words": [
+        {
+          "text": "一套",
+          "offsetMs": 100,
+          "durMs": 400
+        },
+        {
+          "text": "面向",
+          "offsetMs": 525,
+          "durMs": 288
+        },
+        {
+          "text": "教师",
+          "offsetMs": 825,
+          "durMs": 512
+        },
+        {
+          "text": "与",
+          "offsetMs": 1362,
+          "durMs": 100
+        },
+        {
+          "text": "学生",
+          "offsetMs": 1475,
+          "durMs": 325
+        },
+        {
+          "text": "的",
+          "offsetMs": 1800,
+          "durMs": 100
+        },
+        {
+          "text": "知识",
+          "offsetMs": 1925,
+          "durMs": 288
+        },
+        {
+          "text": "断点",
+          "offsetMs": 2225,
+          "durMs": 475
+        },
+        {
+          "text": "诊断",
+          "offsetMs": 2725,
+          "durMs": 388
+        },
+        {
+          "text": "平台",
+          "offsetMs": 3125,
+          "durMs": 488
+        }
+      ]
+    },
+    {
+      "id": "s2-a",
+      "text": "刷题很多，断点不明。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s2-a.mp3",
+      "seconds": 3.024,
+      "words": [
+        {
+          "text": "刷",
+          "offsetMs": 100,
+          "durMs": 325
+        },
+        {
+          "text": "题",
+          "offsetMs": 425,
+          "durMs": 138
+        },
+        {
+          "text": "很多",
+          "offsetMs": 575,
+          "durMs": 488
+        },
+        {
+          "text": "断点",
+          "offsetMs": 1338,
+          "durMs": 375
+        },
+        {
+          "text": "不明",
+          "offsetMs": 1725,
+          "durMs": 438
+        }
+      ]
+    },
+    {
+      "id": "s2-b",
+      "text": "不知道卡在哪，换题仍然不会；备课，也常常重复到深夜。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s2-b.mp3",
+      "seconds": 6.312,
+      "words": [
+        {
+          "text": "不",
+          "offsetMs": 100,
+          "durMs": 150
+        },
+        {
+          "text": "知道",
+          "offsetMs": 250,
+          "durMs": 238
+        },
+        {
+          "text": "卡",
+          "offsetMs": 512,
+          "durMs": 200
+        },
+        {
+          "text": "在",
+          "offsetMs": 725,
+          "durMs": 150
+        },
+        {
+          "text": "哪",
+          "offsetMs": 875,
+          "durMs": 325
+        },
+        {
+          "text": "换题",
+          "offsetMs": 1425,
+          "durMs": 512
+        },
+        {
+          "text": "仍然",
+          "offsetMs": 1962,
+          "durMs": 338
+        },
+        {
+          "text": "不会",
+          "offsetMs": 2312,
+          "durMs": 425
+        },
+        {
+          "text": "备课",
+          "offsetMs": 3112,
+          "durMs": 575
+        },
+        {
+          "text": "也",
+          "offsetMs": 3975,
+          "durMs": 138
+        },
+        {
+          "text": "常常",
+          "offsetMs": 4125,
+          "durMs": 412
+        },
+        {
+          "text": "重复",
+          "offsetMs": 4550,
+          "durMs": 325
+        },
+        {
+          "text": "到",
+          "offsetMs": 4875,
+          "durMs": 100
+        },
+        {
+          "text": "深夜",
+          "offsetMs": 4988,
+          "durMs": 450
+        }
+      ]
+    },
+    {
+      "id": "s2-c",
+      "text": "问题不在题量，而在断点没有被真正定位。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s2-c.mp3",
+      "seconds": 4.824,
+      "words": [
+        {
+          "text": "问题",
+          "offsetMs": 100,
+          "durMs": 362
+        },
+        {
+          "text": "不在",
+          "offsetMs": 488,
+          "durMs": 238
+        },
+        {
+          "text": "题量",
+          "offsetMs": 738,
+          "durMs": 525
+        },
+        {
+          "text": "而",
+          "offsetMs": 1712,
+          "durMs": 188
+        },
+        {
+          "text": "在",
+          "offsetMs": 1900,
+          "durMs": 138
+        },
+        {
+          "text": "断点",
+          "offsetMs": 2050,
+          "durMs": 588
+        },
+        {
+          "text": "没有",
+          "offsetMs": 2750,
+          "durMs": 250
+        },
+        {
+          "text": "被",
+          "offsetMs": 3000,
+          "durMs": 138
+        },
+        {
+          "text": "真正",
+          "offsetMs": 3162,
+          "durMs": 375
+        },
+        {
+          "text": "定位",
+          "offsetMs": 3550,
+          "durMs": 388
+        }
+      ]
+    },
+    {
+      "id": "s3-a",
+      "text": "桌面端，离线可用；Web 端，打开浏览器就能诊断。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s3-a.mp3",
+      "seconds": 5.784,
+      "words": [
+        {
+          "text": "桌面",
+          "offsetMs": 100,
+          "durMs": 400
+        },
+        {
+          "text": "端",
+          "offsetMs": 500,
+          "durMs": 312
+        },
+        {
+          "text": "离线",
+          "offsetMs": 1000,
+          "durMs": 388
+        },
+        {
+          "text": "可用",
+          "offsetMs": 1400,
+          "durMs": 475
+        },
+        {
+          "text": "Web",
+          "offsetMs": 2275,
+          "durMs": 488
+        },
+        {
+          "text": "端",
+          "offsetMs": 2762,
+          "durMs": 338
+        },
+        {
+          "text": "打开",
+          "offsetMs": 3325,
+          "durMs": 300
+        },
+        {
+          "text": "浏览器",
+          "offsetMs": 3638,
+          "durMs": 575
+        },
+        {
+          "text": "就",
+          "offsetMs": 4238,
+          "durMs": 138
+        },
+        {
+          "text": "能",
+          "offsetMs": 4375,
+          "durMs": 112
+        },
+        {
+          "text": "诊断",
+          "offsetMs": 4500,
+          "durMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s3-b",
+      "text": "同一套知识图谱，两种使用场景。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s3-b.mp3",
+      "seconds": 3.84,
+      "words": [
+        {
+          "text": "同",
+          "offsetMs": 100,
+          "durMs": 200
+        },
+        {
+          "text": "一套",
+          "offsetMs": 300,
+          "durMs": 350
+        },
+        {
+          "text": "知识",
+          "offsetMs": 675,
+          "durMs": 288
+        },
+        {
+          "text": "图谱",
+          "offsetMs": 975,
+          "durMs": 538
+        },
+        {
+          "text": "两",
+          "offsetMs": 1725,
+          "durMs": 288
+        },
+        {
+          "text": "种",
+          "offsetMs": 2012,
+          "durMs": 175
+        },
+        {
+          "text": "使用",
+          "offsetMs": 2212,
+          "durMs": 250
+        },
+        {
+          "text": "场景",
+          "offsetMs": 2475,
+          "durMs": 475
+        }
+      ]
+    },
+    {
+      "id": "s3-c",
+      "text": "数据只存本机。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s3-c.mp3",
+      "seconds": 2.376,
+      "words": [
+        {
+          "text": "数据",
+          "offsetMs": 100,
+          "durMs": 550
+        },
+        {
+          "text": "只",
+          "offsetMs": 675,
+          "durMs": 125
+        },
+        {
+          "text": "存本机",
+          "offsetMs": 800,
+          "durMs": 700
+        }
+      ]
+    },
+    {
+      "id": "s4-a",
+      "text": "桌面端从教师身份开始。选课程，说需求，生成一份结构化教学方案。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s4-a.mp3",
+      "seconds": 7.8,
+      "words": [
+        {
+          "text": "桌面端",
+          "offsetMs": 100,
+          "durMs": 725
+        },
+        {
+          "text": "从",
+          "offsetMs": 850,
+          "durMs": 175
+        },
+        {
+          "text": "教师",
+          "offsetMs": 1038,
+          "durMs": 338
+        },
+        {
+          "text": "身份",
+          "offsetMs": 1388,
+          "durMs": 312
+        },
+        {
+          "text": "开始",
+          "offsetMs": 1712,
+          "durMs": 462
+        },
+        {
+          "text": "选",
+          "offsetMs": 2750,
+          "durMs": 288
+        },
+        {
+          "text": "课程",
+          "offsetMs": 3038,
+          "durMs": 575
+        },
+        {
+          "text": "说",
+          "offsetMs": 3862,
+          "durMs": 200
+        },
+        {
+          "text": "需求",
+          "offsetMs": 4075,
+          "durMs": 675
+        },
+        {
+          "text": "生成",
+          "offsetMs": 4938,
+          "durMs": 350
+        },
+        {
+          "text": "一",
+          "offsetMs": 5300,
+          "durMs": 100
+        },
+        {
+          "text": "份",
+          "offsetMs": 5400,
+          "durMs": 212
+        },
+        {
+          "text": "结构",
+          "offsetMs": 5638,
+          "durMs": 400
+        },
+        {
+          "text": "化",
+          "offsetMs": 6038,
+          "durMs": 188
+        },
+        {
+          "text": "教学",
+          "offsetMs": 6250,
+          "durMs": 312
+        },
+        {
+          "text": "方案",
+          "offsetMs": 6575,
+          "durMs": 338
+        }
+      ]
+    },
+    {
+      "id": "s4-b",
+      "text": "目标、学情、流程、评价、分层，固定五段；每条依据都能点回来源。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s4-b.mp3",
+      "seconds": 8.064,
+      "words": [
+        {
+          "text": "目标",
+          "offsetMs": 100,
+          "durMs": 462
+        },
+        {
+          "text": "学情",
+          "offsetMs": 762,
+          "durMs": 638
+        },
+        {
+          "text": "流程",
+          "offsetMs": 1612,
+          "durMs": 662
+        },
+        {
+          "text": "评价",
+          "offsetMs": 2500,
+          "durMs": 525
+        },
+        {
+          "text": "分",
+          "offsetMs": 3350,
+          "durMs": 250
+        },
+        {
+          "text": "层",
+          "offsetMs": 3600,
+          "durMs": 425
+        },
+        {
+          "text": "固定",
+          "offsetMs": 4288,
+          "durMs": 338
+        },
+        {
+          "text": "五",
+          "offsetMs": 4638,
+          "durMs": 162
+        },
+        {
+          "text": "段",
+          "offsetMs": 4800,
+          "durMs": 300
+        },
+        {
+          "text": "每",
+          "offsetMs": 5425,
+          "durMs": 288
+        },
+        {
+          "text": "条",
+          "offsetMs": 5712,
+          "durMs": 125
+        },
+        {
+          "text": "依据",
+          "offsetMs": 5850,
+          "durMs": 425
+        },
+        {
+          "text": "都",
+          "offsetMs": 6300,
+          "durMs": 100
+        },
+        {
+          "text": "能点",
+          "offsetMs": 6400,
+          "durMs": 262
+        },
+        {
+          "text": "回来源",
+          "offsetMs": 6675,
+          "durMs": 512
+        }
+      ]
+    },
+    {
+      "id": "s4-c",
+      "text": "方案可以锁定、替换、压缩，也能版本化保存。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s4-c.mp3",
+      "seconds": 5.352,
+      "words": [
+        {
+          "text": "方案",
+          "offsetMs": 100,
+          "durMs": 388
+        },
+        {
+          "text": "可以",
+          "offsetMs": 512,
+          "durMs": 188
+        },
+        {
+          "text": "锁定",
+          "offsetMs": 712,
+          "durMs": 462
+        },
+        {
+          "text": "替换",
+          "offsetMs": 1462,
+          "durMs": 600
+        },
+        {
+          "text": "压缩",
+          "offsetMs": 2362,
+          "durMs": 600
+        },
+        {
+          "text": "也",
+          "offsetMs": 3200,
+          "durMs": 138
+        },
+        {
+          "text": "能",
+          "offsetMs": 3338,
+          "durMs": 125
+        },
+        {
+          "text": "版本",
+          "offsetMs": 3488,
+          "durMs": 312
+        },
+        {
+          "text": "化",
+          "offsetMs": 3800,
+          "durMs": 150
+        },
+        {
+          "text": "保存",
+          "offsetMs": 3962,
+          "durMs": 500
+        }
+      ]
+    },
+    {
+      "id": "s4-d",
+      "text": "每一步都能改。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s4-d.mp3",
+      "seconds": 2.112,
+      "words": [
+        {
+          "text": "每",
+          "offsetMs": 100,
+          "durMs": 225
+        },
+        {
+          "text": "一",
+          "offsetMs": 325,
+          "durMs": 150
+        },
+        {
+          "text": "步",
+          "offsetMs": 475,
+          "durMs": 162
+        },
+        {
+          "text": "都",
+          "offsetMs": 650,
+          "durMs": 125
+        },
+        {
+          "text": "能",
+          "offsetMs": 775,
+          "durMs": 162
+        },
+        {
+          "text": "改",
+          "offsetMs": 938,
+          "durMs": 312
+        }
+      ]
+    },
+    {
+      "id": "s5-a",
+      "text": "质量检查逐项打分：目标覆盖、时间预算、易错点。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s5-a.mp3",
+      "seconds": 5.616,
+      "words": [
+        {
+          "text": "质量",
+          "offsetMs": 100,
+          "durMs": 338
+        },
+        {
+          "text": "检查",
+          "offsetMs": 450,
+          "durMs": 400
+        },
+        {
+          "text": "逐项",
+          "offsetMs": 875,
+          "durMs": 275
+        },
+        {
+          "text": "打分",
+          "offsetMs": 1162,
+          "durMs": 500
+        },
+        {
+          "text": "目标",
+          "offsetMs": 2025,
+          "durMs": 350
+        },
+        {
+          "text": "覆盖",
+          "offsetMs": 2388,
+          "durMs": 425
+        },
+        {
+          "text": "时间",
+          "offsetMs": 2988,
+          "durMs": 425
+        },
+        {
+          "text": "预算",
+          "offsetMs": 3425,
+          "durMs": 438
+        },
+        {
+          "text": "易错点",
+          "offsetMs": 4188,
+          "durMs": 538
+        }
+      ]
+    },
+    {
+      "id": "s5-b",
+      "text": "不通过的项目会指出原因，而不是只给一个分数。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s5-b.mp3",
+      "seconds": 4.896,
+      "words": [
+        {
+          "text": "不",
+          "offsetMs": 100,
+          "durMs": 162
+        },
+        {
+          "text": "通过",
+          "offsetMs": 262,
+          "durMs": 262
+        },
+        {
+          "text": "的",
+          "offsetMs": 525,
+          "durMs": 88
+        },
+        {
+          "text": "项目",
+          "offsetMs": 625,
+          "durMs": 500
+        },
+        {
+          "text": "会",
+          "offsetMs": 1238,
+          "durMs": 188
+        },
+        {
+          "text": "指出",
+          "offsetMs": 1438,
+          "durMs": 238
+        },
+        {
+          "text": "原因",
+          "offsetMs": 1688,
+          "durMs": 438
+        },
+        {
+          "text": "而",
+          "offsetMs": 2462,
+          "durMs": 412
+        },
+        {
+          "text": "不是",
+          "offsetMs": 2888,
+          "durMs": 238
+        },
+        {
+          "text": "只",
+          "offsetMs": 3150,
+          "durMs": 125
+        },
+        {
+          "text": "给",
+          "offsetMs": 3275,
+          "durMs": 100
+        },
+        {
+          "text": "一个",
+          "offsetMs": 3388,
+          "durMs": 162
+        },
+        {
+          "text": "分数",
+          "offsetMs": 3562,
+          "durMs": 438
+        }
+      ]
+    },
+    {
+      "id": "s5-c",
+      "text": "修改都留在版本里，随时可以回溯。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s5-c.mp3",
+      "seconds": 3.792,
+      "words": [
+        {
+          "text": "修改",
+          "offsetMs": 100,
+          "durMs": 475
+        },
+        {
+          "text": "都",
+          "offsetMs": 600,
+          "durMs": 75
+        },
+        {
+          "text": "留",
+          "offsetMs": 688,
+          "durMs": 112
+        },
+        {
+          "text": "在",
+          "offsetMs": 800,
+          "durMs": 100
+        },
+        {
+          "text": "版本",
+          "offsetMs": 912,
+          "durMs": 325
+        },
+        {
+          "text": "里",
+          "offsetMs": 1238,
+          "durMs": 238
+        },
+        {
+          "text": "随时",
+          "offsetMs": 1812,
+          "durMs": 500
+        },
+        {
+          "text": "可以",
+          "offsetMs": 2325,
+          "durMs": 162
+        },
+        {
+          "text": "回溯",
+          "offsetMs": 2500,
+          "durMs": 412
+        }
+      ]
+    },
+    {
+      "id": "s6-a",
+      "text": "学生端从一次概念提问开始，逐层展开前置假设。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s6-a.mp3",
+      "seconds": 5.112,
+      "words": [
+        {
+          "text": "学生",
+          "offsetMs": 100,
+          "durMs": 388
+        },
+        {
+          "text": "端",
+          "offsetMs": 488,
+          "durMs": 275
+        },
+        {
+          "text": "从",
+          "offsetMs": 788,
+          "durMs": 175
+        },
+        {
+          "text": "一次",
+          "offsetMs": 975,
+          "durMs": 212
+        },
+        {
+          "text": "概念",
+          "offsetMs": 1212,
+          "durMs": 275
+        },
+        {
+          "text": "提问",
+          "offsetMs": 1500,
+          "durMs": 275
+        },
+        {
+          "text": "开始",
+          "offsetMs": 1788,
+          "durMs": 488
+        },
+        {
+          "text": "逐层",
+          "offsetMs": 2488,
+          "durMs": 375
+        },
+        {
+          "text": "展开",
+          "offsetMs": 2875,
+          "durMs": 438
+        },
+        {
+          "text": "前置",
+          "offsetMs": 3338,
+          "durMs": 412
+        },
+        {
+          "text": "假设",
+          "offsetMs": 3762,
+          "durMs": 462
+        }
+      ]
+    },
+    {
+      "id": "s6-b",
+      "text": "两道判别题，只在答错的位置标记断点。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s6-b.mp3",
+      "seconds": 4.8,
+      "words": [
+        {
+          "text": "两道",
+          "offsetMs": 100,
+          "durMs": 388
+        },
+        {
+          "text": "判别",
+          "offsetMs": 500,
+          "durMs": 362
+        },
+        {
+          "text": "题",
+          "offsetMs": 862,
+          "durMs": 375
+        },
+        {
+          "text": "只",
+          "offsetMs": 1600,
+          "durMs": 162
+        },
+        {
+          "text": "在",
+          "offsetMs": 1762,
+          "durMs": 150
+        },
+        {
+          "text": "答错",
+          "offsetMs": 1938,
+          "durMs": 338
+        },
+        {
+          "text": "的",
+          "offsetMs": 2275,
+          "durMs": 88
+        },
+        {
+          "text": "位置",
+          "offsetMs": 2375,
+          "durMs": 575
+        },
+        {
+          "text": "标记",
+          "offsetMs": 3062,
+          "durMs": 400
+        },
+        {
+          "text": "断点",
+          "offsetMs": 3475,
+          "durMs": 450
+        }
+      ]
+    },
+    {
+      "id": "s6-c",
+      "text": "三步路径，每一步都有讲解、例子和微练习。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s6-c.mp3",
+      "seconds": 5.52,
+      "words": [
+        {
+          "text": "三",
+          "offsetMs": 100,
+          "durMs": 312
+        },
+        {
+          "text": "步",
+          "offsetMs": 412,
+          "durMs": 112
+        },
+        {
+          "text": "路径",
+          "offsetMs": 538,
+          "durMs": 462
+        },
+        {
+          "text": "每",
+          "offsetMs": 1362,
+          "durMs": 212
+        },
+        {
+          "text": "一",
+          "offsetMs": 1575,
+          "durMs": 150
+        },
+        {
+          "text": "步",
+          "offsetMs": 1725,
+          "durMs": 212
+        },
+        {
+          "text": "都",
+          "offsetMs": 1962,
+          "durMs": 100
+        },
+        {
+          "text": "有",
+          "offsetMs": 2062,
+          "durMs": 112
+        },
+        {
+          "text": "讲解",
+          "offsetMs": 2188,
+          "durMs": 500
+        },
+        {
+          "text": "例子",
+          "offsetMs": 2988,
+          "durMs": 650
+        },
+        {
+          "text": "和",
+          "offsetMs": 3762,
+          "durMs": 162
+        },
+        {
+          "text": "微",
+          "offsetMs": 3938,
+          "durMs": 212
+        },
+        {
+          "text": "练习",
+          "offsetMs": 4150,
+          "durMs": 500
+        }
+      ]
+    },
+    {
+      "id": "s6-d",
+      "text": "复测换题不换知识点。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s6-d.mp3",
+      "seconds": 2.736,
+      "words": [
+        {
+          "text": "复测",
+          "offsetMs": 100,
+          "durMs": 438
+        },
+        {
+          "text": "换题",
+          "offsetMs": 550,
+          "durMs": 425
+        },
+        {
+          "text": "不",
+          "offsetMs": 975,
+          "durMs": 150
+        },
+        {
+          "text": "换",
+          "offsetMs": 1125,
+          "durMs": 150
+        },
+        {
+          "text": "知识点",
+          "offsetMs": 1288,
+          "durMs": 575
+        }
+      ]
+    },
+    {
+      "id": "s7-a",
+      "text": "演示控制台独立成可执行程序，九幕脚本自动播放。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s7-a.mp3",
+      "seconds": 5.496,
+      "words": [
+        {
+          "text": "演示",
+          "offsetMs": 100,
+          "durMs": 388
+        },
+        {
+          "text": "控制",
+          "offsetMs": 500,
+          "durMs": 312
+        },
+        {
+          "text": "台独",
+          "offsetMs": 825,
+          "durMs": 325
+        },
+        {
+          "text": "立成",
+          "offsetMs": 1162,
+          "durMs": 525
+        },
+        {
+          "text": "可",
+          "offsetMs": 1712,
+          "durMs": 175
+        },
+        {
+          "text": "执行",
+          "offsetMs": 1900,
+          "durMs": 275
+        },
+        {
+          "text": "程序",
+          "offsetMs": 2188,
+          "durMs": 475
+        },
+        {
+          "text": "九",
+          "offsetMs": 2988,
+          "durMs": 262
+        },
+        {
+          "text": "幕",
+          "offsetMs": 3250,
+          "durMs": 162
+        },
+        {
+          "text": "脚本",
+          "offsetMs": 3425,
+          "durMs": 425
+        },
+        {
+          "text": "自动",
+          "offsetMs": 3875,
+          "durMs": 312
+        },
+        {
+          "text": "播放",
+          "offsetMs": 4200,
+          "durMs": 400
+        }
+      ]
+    },
+    {
+      "id": "s7-b",
+      "text": "数据只存本机，断网也能生成。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s7-b.mp3",
+      "seconds": 3.768,
+      "words": [
+        {
+          "text": "数据",
+          "offsetMs": 100,
+          "durMs": 550
+        },
+        {
+          "text": "只",
+          "offsetMs": 675,
+          "durMs": 138
+        },
+        {
+          "text": "存",
+          "offsetMs": 812,
+          "durMs": 188
+        },
+        {
+          "text": "本",
+          "offsetMs": 1012,
+          "durMs": 175
+        },
+        {
+          "text": "机",
+          "offsetMs": 1188,
+          "durMs": 288
+        },
+        {
+          "text": "断网",
+          "offsetMs": 1725,
+          "durMs": 412
+        },
+        {
+          "text": "也",
+          "offsetMs": 2162,
+          "durMs": 100
+        },
+        {
+          "text": "能",
+          "offsetMs": 2262,
+          "durMs": 100
+        },
+        {
+          "text": "生成",
+          "offsetMs": 2375,
+          "durMs": 500
+        }
+      ]
+    },
+    {
+      "id": "s8-a",
+      "text": "Web 端把这套体验搬进浏览器。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s8-a.mp3",
+      "seconds": 3.744,
+      "words": [
+        {
+          "text": "Web",
+          "offsetMs": 100,
+          "durMs": 462
+        },
+        {
+          "text": "端",
+          "offsetMs": 562,
+          "durMs": 362
+        },
+        {
+          "text": "把",
+          "offsetMs": 1038,
+          "durMs": 138
+        },
+        {
+          "text": "这",
+          "offsetMs": 1188,
+          "durMs": 112
+        },
+        {
+          "text": "套",
+          "offsetMs": 1300,
+          "durMs": 125
+        },
+        {
+          "text": "体验",
+          "offsetMs": 1438,
+          "durMs": 438
+        },
+        {
+          "text": "搬进",
+          "offsetMs": 1988,
+          "durMs": 300
+        },
+        {
+          "text": "浏览器",
+          "offsetMs": 2300,
+          "durMs": 550
+        }
+      ]
+    },
+    {
+      "id": "s8-b",
+      "text": "入口只有一句话：一个让你似懂非懂的概念。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s8-b.mp3",
+      "seconds": 4.368,
+      "words": [
+        {
+          "text": "入口",
+          "offsetMs": 100,
+          "durMs": 488
+        },
+        {
+          "text": "只有",
+          "offsetMs": 612,
+          "durMs": 175
+        },
+        {
+          "text": "一句话",
+          "offsetMs": 800,
+          "durMs": 662
+        },
+        {
+          "text": "一个",
+          "offsetMs": 1850,
+          "durMs": 225
+        },
+        {
+          "text": "让",
+          "offsetMs": 2088,
+          "durMs": 138
+        },
+        {
+          "text": "你",
+          "offsetMs": 2225,
+          "durMs": 112
+        },
+        {
+          "text": "似懂非懂",
+          "offsetMs": 2362,
+          "durMs": 675
+        },
+        {
+          "text": "的",
+          "offsetMs": 3038,
+          "durMs": 75
+        },
+        {
+          "text": "概念",
+          "offsetMs": 3125,
+          "durMs": 362
+        }
+      ]
+    },
+    {
+      "id": "s8-c",
+      "text": "四个步骤，一条主线。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s8-c.mp3",
+      "seconds": 2.856,
+      "words": [
+        {
+          "text": "四个",
+          "offsetMs": 100,
+          "durMs": 350
+        },
+        {
+          "text": "步骤",
+          "offsetMs": 462,
+          "durMs": 450
+        },
+        {
+          "text": "一条",
+          "offsetMs": 1312,
+          "durMs": 275
+        },
+        {
+          "text": "主线",
+          "offsetMs": 1600,
+          "durMs": 362
+        }
+      ]
+    },
+    {
+      "id": "s9-a",
+      "text": "两道短测，答案只在服务端计算。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s9-a.mp3",
+      "seconds": 3.432,
+      "words": [
+        {
+          "text": "两道",
+          "offsetMs": 100,
+          "durMs": 312
+        },
+        {
+          "text": "短测",
+          "offsetMs": 412,
+          "durMs": 500
+        },
+        {
+          "text": "答案",
+          "offsetMs": 1200,
+          "durMs": 300
+        },
+        {
+          "text": "只",
+          "offsetMs": 1512,
+          "durMs": 125
+        },
+        {
+          "text": "在",
+          "offsetMs": 1638,
+          "durMs": 125
+        },
+        {
+          "text": "服务",
+          "offsetMs": 1788,
+          "durMs": 238
+        },
+        {
+          "text": "端",
+          "offsetMs": 2025,
+          "durMs": 138
+        },
+        {
+          "text": "计算",
+          "offsetMs": 2175,
+          "durMs": 362
+        }
+      ]
+    },
+    {
+      "id": "s9-b",
+      "text": "图谱按前置关系展开，点开节点就能核对依据。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s9-b.mp3",
+      "seconds": 5.064,
+      "words": [
+        {
+          "text": "图谱",
+          "offsetMs": 100,
+          "durMs": 362
+        },
+        {
+          "text": "按",
+          "offsetMs": 488,
+          "durMs": 162
+        },
+        {
+          "text": "前置",
+          "offsetMs": 662,
+          "durMs": 325
+        },
+        {
+          "text": "关系",
+          "offsetMs": 1000,
+          "durMs": 275
+        },
+        {
+          "text": "展开",
+          "offsetMs": 1288,
+          "durMs": 512
+        },
+        {
+          "text": "点",
+          "offsetMs": 2150,
+          "durMs": 188
+        },
+        {
+          "text": "开",
+          "offsetMs": 2338,
+          "durMs": 188
+        },
+        {
+          "text": "节点",
+          "offsetMs": 2538,
+          "durMs": 462
+        },
+        {
+          "text": "就",
+          "offsetMs": 3100,
+          "durMs": 175
+        },
+        {
+          "text": "能",
+          "offsetMs": 3275,
+          "durMs": 125
+        },
+        {
+          "text": "核对",
+          "offsetMs": 3425,
+          "durMs": 362
+        },
+        {
+          "text": "依据",
+          "offsetMs": 3800,
+          "durMs": 388
+        }
+      ]
+    },
+    {
+      "id": "s9-c",
+      "text": "右侧的 Agent 轨迹，逐环节可见。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s9-c.mp3",
+      "seconds": 3.648,
+      "words": [
+        {
+          "text": "右侧",
+          "offsetMs": 100,
+          "durMs": 375
+        },
+        {
+          "text": "的",
+          "offsetMs": 475,
+          "durMs": 138
+        },
+        {
+          "text": "Agent",
+          "offsetMs": 638,
+          "durMs": 412
+        },
+        {
+          "text": "轨迹",
+          "offsetMs": 1062,
+          "durMs": 500
+        },
+        {
+          "text": "逐",
+          "offsetMs": 1750,
+          "durMs": 212
+        },
+        {
+          "text": "环节",
+          "offsetMs": 1962,
+          "durMs": 362
+        },
+        {
+          "text": "可见",
+          "offsetMs": 2338,
+          "durMs": 438
+        }
+      ]
+    },
+    {
+      "id": "s10-a",
+      "text": "路径按前置关系排序，从最底层补起。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s10-a.mp3",
+      "seconds": 4.2,
+      "words": [
+        {
+          "text": "路径",
+          "offsetMs": 100,
+          "durMs": 350
+        },
+        {
+          "text": "按",
+          "offsetMs": 462,
+          "durMs": 200
+        },
+        {
+          "text": "前置",
+          "offsetMs": 688,
+          "durMs": 325
+        },
+        {
+          "text": "关系",
+          "offsetMs": 1025,
+          "durMs": 288
+        },
+        {
+          "text": "排序",
+          "offsetMs": 1325,
+          "durMs": 500
+        },
+        {
+          "text": "从",
+          "offsetMs": 2062,
+          "durMs": 275
+        },
+        {
+          "text": "最",
+          "offsetMs": 2362,
+          "durMs": 238
+        },
+        {
+          "text": "底层",
+          "offsetMs": 2600,
+          "durMs": 338
+        },
+        {
+          "text": "补起",
+          "offsetMs": 2950,
+          "durMs": 375
+        }
+      ]
+    },
+    {
+      "id": "s10-b",
+      "text": "每一步都有讲解、例子和一道微练习。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s10-b.mp3",
+      "seconds": 4.512,
+      "words": [
+        {
+          "text": "每",
+          "offsetMs": 100,
+          "durMs": 200
+        },
+        {
+          "text": "一",
+          "offsetMs": 300,
+          "durMs": 138
+        },
+        {
+          "text": "步",
+          "offsetMs": 438,
+          "durMs": 212
+        },
+        {
+          "text": "都",
+          "offsetMs": 675,
+          "durMs": 100
+        },
+        {
+          "text": "有",
+          "offsetMs": 775,
+          "durMs": 112
+        },
+        {
+          "text": "讲解",
+          "offsetMs": 900,
+          "durMs": 525
+        },
+        {
+          "text": "例子",
+          "offsetMs": 1750,
+          "durMs": 638
+        },
+        {
+          "text": "和",
+          "offsetMs": 2512,
+          "durMs": 162
+        },
+        {
+          "text": "一",
+          "offsetMs": 2688,
+          "durMs": 100
+        },
+        {
+          "text": "道",
+          "offsetMs": 2788,
+          "durMs": 125
+        },
+        {
+          "text": "微",
+          "offsetMs": 2938,
+          "durMs": 188
+        },
+        {
+          "text": "练习",
+          "offsetMs": 3125,
+          "durMs": 525
+        }
+      ]
+    },
+    {
+      "id": "s10-c",
+      "text": "复测换题，只对照两次作答。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s10-c.mp3",
+      "seconds": 3.6,
+      "words": [
+        {
+          "text": "复测",
+          "offsetMs": 100,
+          "durMs": 362
+        },
+        {
+          "text": "换题",
+          "offsetMs": 462,
+          "durMs": 588
+        },
+        {
+          "text": "只",
+          "offsetMs": 1250,
+          "durMs": 175
+        },
+        {
+          "text": "对照",
+          "offsetMs": 1425,
+          "durMs": 362
+        },
+        {
+          "text": "两",
+          "offsetMs": 1812,
+          "durMs": 238
+        },
+        {
+          "text": "次",
+          "offsetMs": 2050,
+          "durMs": 188
+        },
+        {
+          "text": "作答",
+          "offsetMs": 2250,
+          "durMs": 462
+        }
+      ]
+    },
+    {
+      "id": "s11-a",
+      "text": "桌面四环节，Web 七环节。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s11-a.mp3",
+      "seconds": 3.648,
+      "words": [
+        {
+          "text": "桌面",
+          "offsetMs": 100,
+          "durMs": 425
+        },
+        {
+          "text": "四",
+          "offsetMs": 550,
+          "durMs": 225
+        },
+        {
+          "text": "环节",
+          "offsetMs": 775,
+          "durMs": 512
+        },
+        {
+          "text": "Web",
+          "offsetMs": 1562,
+          "durMs": 425
+        },
+        {
+          "text": "七",
+          "offsetMs": 1988,
+          "durMs": 262
+        },
+        {
+          "text": "环节",
+          "offsetMs": 2262,
+          "durMs": 500
+        }
+      ]
+    },
+    {
+      "id": "s11-b",
+      "text": "每一步 JSON 校验，失败重试一次，再退回本地规则。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s11-b.mp3",
+      "seconds": 5.808,
+      "words": [
+        {
+          "text": "每",
+          "offsetMs": 100,
+          "durMs": 188
+        },
+        {
+          "text": "一",
+          "offsetMs": 288,
+          "durMs": 112
+        },
+        {
+          "text": "步",
+          "offsetMs": 400,
+          "durMs": 250
+        },
+        {
+          "text": "JSON",
+          "offsetMs": 750,
+          "durMs": 688
+        },
+        {
+          "text": "校验",
+          "offsetMs": 1450,
+          "durMs": 438
+        },
+        {
+          "text": "失败",
+          "offsetMs": 2138,
+          "durMs": 412
+        },
+        {
+          "text": "重试",
+          "offsetMs": 2575,
+          "durMs": 325
+        },
+        {
+          "text": "一次",
+          "offsetMs": 2912,
+          "durMs": 400
+        },
+        {
+          "text": "再",
+          "offsetMs": 3488,
+          "durMs": 200
+        },
+        {
+          "text": "退回",
+          "offsetMs": 3688,
+          "durMs": 388
+        },
+        {
+          "text": "本地",
+          "offsetMs": 4100,
+          "durMs": 350
+        },
+        {
+          "text": "规则",
+          "offsetMs": 4462,
+          "durMs": 462
+        }
+      ]
+    },
+    {
+      "id": "s12-a",
+      "text": "让每一个不懂，都有下一步。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s12-a.mp3",
+      "seconds": 3.216,
+      "words": [
+        {
+          "text": "让",
+          "offsetMs": 100,
+          "durMs": 188
+        },
+        {
+          "text": "每",
+          "offsetMs": 300,
+          "durMs": 162
+        },
+        {
+          "text": "一个",
+          "offsetMs": 462,
+          "durMs": 188
+        },
+        {
+          "text": "不",
+          "offsetMs": 662,
+          "durMs": 150
+        },
+        {
+          "text": "懂",
+          "offsetMs": 812,
+          "durMs": 312
+        },
+        {
+          "text": "都",
+          "offsetMs": 1550,
+          "durMs": 138
+        },
+        {
+          "text": "有",
+          "offsetMs": 1688,
+          "durMs": 100
+        },
+        {
+          "text": "下一步",
+          "offsetMs": 1800,
+          "durMs": 538
+        }
+      ]
+    },
+    {
+      "id": "s12-b",
+      "text": "智析 AI。",
+      "file": "c:\\Users\\lkjds\\Desktop\\黑客松比赛\\黑客松比赛\\07-演示视频\\remotion-src\\public\\audio\\lines\\s12-b.mp3",
+      "seconds": 2.064,
+      "words": [
+        {
+          "text": "智析",
+          "offsetMs": 100,
+          "durMs": 462
+        },
+        {
+          "text": "AI",
+          "offsetMs": 575,
+          "durMs": 612
+        }
+      ]
+    }
+  ],
+  "totalSeconds": 151.152
+}
