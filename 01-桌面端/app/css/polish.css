@@ -1,0 +1,292 @@
+/* 智析 AI · 本轮视觉打磨增量
+   仅在本文件新增样式；不改动 tokens / base / components / pages / views。
+   所有颜色、圆角、阴影均使用 tokens.css 中的变量。 */
+
+/* ============================================================
+   1. 页面切换过渡
+   ============================================================ */
+
+@keyframes polish-page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page > * {
+  animation: polish-page-enter 160ms ease both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page > * {
+    animation: none;
+  }
+}
+
+[data-reduce-motion="true"] .page > * {
+  animation: none;
+}
+
+/* ============================================================
+   2. 诊断页吸顶（pageHead + stageBar）
+   ============================================================ */
+
+.dx-top {
+  position: sticky;
+  top: 0;
+  z-index: 8;
+  margin: -26px -30px 0;
+  padding: 26px 30px 14px;
+  border-bottom: 1px solid var(--border);
+  background: linear-gradient(180deg, var(--bg) 0%, var(--bg) 58%, var(--surface-subtle) 100%);
+  box-shadow: 0 10px 18px -18px rgba(23, 32, 51, .45);
+}
+
+.dx-top .page-head {
+  margin-bottom: 12px;
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.dx-top .stage-bar {
+  margin-top: 0;
+}
+
+/* 右栏避开吸顶区，保证卡片标题不被永久遮挡 */
+.dx-layout {
+  --dx-top-offset: 0px;
+}
+
+@media (min-width: 1181px) {
+  .dx-rail {
+    top: calc(var(--dx-top-offset, 0px) + 14px);
+  }
+}
+
+[data-theme="dark"] .dx-top {
+  box-shadow: 0 10px 18px -18px rgba(0, 0, 0, .65);
+}
+
+@media (max-width: 1200px) {
+  .dx-top {
+    margin: -22px -24px 0;
+    padding: 22px 24px 12px;
+  }
+}
+
+/* 720 高度窗口下压缩吸顶区留白，保证内容可见 */
+@media (max-height: 760px) {
+  .dx-top {
+    padding-top: 12px;
+    padding-bottom: 10px;
+  }
+
+  .dx-top .page-head {
+    margin-bottom: 10px;
+  }
+
+  .dx-top .stage-bar {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+}
+
+/* ============================================================
+   3. 知识图谱：节点搜索
+   ============================================================ */
+
+.graph-toolbar {
+  row-gap: 6px;
+}
+
+.graph-tools {
+  flex-wrap: wrap;
+}
+
+.graph-search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex: 1 1 200px;
+  min-width: 150px;
+  max-width: 300px;
+}
+
+.graph-search-icon {
+  position: absolute;
+  left: 9px;
+  display: inline-flex;
+  color: var(--text-3);
+  pointer-events: none;
+}
+
+.graph-search .input.graph-search-input {
+  height: 32px;
+  padding-left: 30px;
+  padding-right: 30px;
+  font-size: 13px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+}
+
+.graph-search-input::-webkit-search-cancel-button,
+.graph-search-input::-webkit-search-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+}
+
+.graph-search-input:hover {
+  border-color: var(--text-3);
+}
+
+.graph-search-clear {
+  position: absolute;
+  right: 4px;
+  width: 24px;
+  height: 24px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  color: var(--text-2);
+  transition: background .16s ease, color .16s ease;
+}
+
+.graph-search-clear:hover {
+  background: var(--surface-strong);
+  color: var(--text);
+}
+
+.graph-search-clear:focus-visible {
+  box-shadow: var(--focus);
+}
+
+.graph-search-meta {
+  font-size: 12px;
+  line-height: 1.4;
+  color: var(--text-2);
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.graph-toolbar-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+@media (max-width: 1180px) {
+  .graph-toolbar-meta {
+    display: none;
+  }
+
+  .graph-search {
+    flex: 1 1 160px;
+    max-width: none;
+  }
+}
+
+/* 匹配节点外发光，其余节点降低透明度 */
+.gnode {
+  transition: opacity .16s ease;
+}
+
+.gnode.is-match .gnode-card {
+  stroke: var(--accent);
+  stroke-width: 2.5;
+  filter: drop-shadow(0 0 7px rgba(79, 70, 229, .55));
+}
+
+[data-theme="dark"] .gnode.is-match .gnode-card {
+  filter: drop-shadow(0 0 8px rgba(129, 140, 248, .7));
+}
+
+.gnode.is-match .gnode-label {
+  fill: var(--accent-hover);
+}
+
+[data-theme="dark"] .gnode.is-match .gnode-label {
+  fill: var(--accent-hover);
+}
+
+.graph-canvas.is-searching .gnode.is-dim {
+  opacity: .26;
+}
+
+/* ============================================================
+   4. 学习路径：环形进度
+   ============================================================ */
+
+.path-done-row {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.path-done-info {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.path-ring {
+  --ring-p: 0%;
+  position: relative;
+  flex: 0 0 auto;
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: conic-gradient(var(--accent) var(--ring-p), var(--surface-strong) 0);
+  transition: background .2s ease;
+}
+
+.path-ring::before {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  border-radius: 50%;
+  background: var(--surface);
+}
+
+.path-ring-value {
+  position: relative;
+  z-index: 1;
+  font-size: 13px;
+  line-height: 1;
+  font-weight: 650;
+  color: var(--text);
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .01em;
+}
+
+.path-ring.is-complete {
+  background: conic-gradient(var(--success) var(--ring-p), var(--surface-strong) 0);
+}
+
+.path-ring.is-complete .path-ring-value {
+  color: var(--success);
+}
+
+@media (max-width: 760px) {
+  .path-ring {
+    width: 56px;
+    height: 56px;
+  }
+}
+
+/* ============================================================
+   5. 工作台
+   ============================================================ */
+
+/* 工作台空态已改为「三步说明 + 单一入口」的内嵌结构，见 pages.css */

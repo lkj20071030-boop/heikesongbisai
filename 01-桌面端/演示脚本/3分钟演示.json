@@ -1,0 +1,79 @@
+{
+  "version": 1,
+  "title": "3 分钟演示",
+  "autoPlay": true,
+  "scenes": [
+    {
+      "id": "intro",
+      "action": "intro",
+      "title": "提出一个概念问题",
+      "narration": "入口不是聊天框，也不是错题本，而是一次概念性提问。",
+      "focus": [".home-composer", ".home-hero", ".home"],
+      "duration": 14000
+    },
+    {
+      "id": "expand",
+      "action": "expand",
+      "title": "展开前置假设",
+      "narration": "系统先假设：理解 KVL 可能需要电压、电势差、闭合回路与参考方向，每条关系都带依据。",
+      "focus": [".dx-stream", ".dx-layout", ".dx-main"],
+      "duration": 14000
+    },
+    {
+      "id": "confirm",
+      "action": "confirm",
+      "title": "在第 2 层停一下",
+      "narration": "默认只展开两层，把依据摊开等你确认，避免递归错误一路放大。",
+      "focus": [".dx-confirm", ".dx-stream"],
+      "duration": 14000
+    },
+    {
+      "id": "quiz",
+      "action": "quiz",
+      "title": "两道短测确认",
+      "narration": "只问两道判别题。答错的位置，才被标成疑似断点。",
+      "focus": [".dx-review", ".dx-stream"],
+      "duration": 14000
+    },
+    {
+      "id": "path",
+      "action": "path",
+      "title": "生成可执行路径",
+      "narration": "路径按前置关系排序，每一步给出概念、例子和微练习，而不是甩一段答案。",
+      "focus": [".path-summary", ".path-page", ".v-page"],
+      "duration": 14000
+    },
+    {
+      "id": "retest",
+      "action": "retest",
+      "title": "完成三步并复测",
+      "narration": "复测用不同的题。这里只对照两次作答，不宣称能力提升。",
+      "focus": [".path-compare", ".path-page", ".v-page"],
+      "duration": 14000
+    },
+    {
+      "id": "graph",
+      "action": "graph",
+      "title": "人工覆写与重算",
+      "narration": "每条边都有依据和置信度。你可以覆写；覆写后下游标记为过期，提醒重算。",
+      "focus": [".graph-banner", ".graph-page", ".graph-split"],
+      "duration": 14000
+    },
+    {
+      "id": "teacher",
+      "action": "teacher",
+      "title": "教师看见共性断点",
+      "narration": "同一个断点超过 40% 的学生，才会被聚合为班级共性断点。",
+      "focus": [".teacher-chart", ".teacher-break", ".teacher-page"],
+      "duration": 14000
+    },
+    {
+      "id": "outro",
+      "action": "outro",
+      "title": "收尾",
+      "narration": "多标签、命令面板、本地保存。不止于答案，更接近理解。",
+      "focus": [".tabbar", ".home-composer"],
+      "duration": 14000
+    }
+  ]
+}
